@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Components</string>
+  <string name="student_details">Воробьев Семен ПИ-251</string>
+  <string name="app_icon_description">Стандартная иконка приложения</string>
+  <string name="button_ok">ОК</string>
+</resources>

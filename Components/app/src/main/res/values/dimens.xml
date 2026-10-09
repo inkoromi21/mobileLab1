@@ -1,0 +1,4 @@
+<resources>
+  <dimen name="app_icon_size">72dp</dimen>
+  <dimen name="input_minimum_height">48dp</dimen>
+</resources>
